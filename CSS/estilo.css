@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    margin-left: 5%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: darkblue;
+    width: 55%;
+}
+
+h1, h2, h3 {
+    color: aliceblue;
+}
+
+#image {
+    display: flex;
+    margin-left: 15%;
+    height: 256px;
+    width: 256px;
+    background: url('https://cdn.codeandweb.com/blog/2016/05/10/how-to-create-a-sprite-sheet/spritestrip.png');
+}
+
