@@ -17,8 +17,8 @@ h1, h2, h3 {
 #image {
     display: flex;
     margin-left: 15%;
-    height: 256px;
-    width: 256px;
-    background: url('https://cdn.codeandweb.com/blog/2016/05/10/how-to-create-a-sprite-sheet/spritestrip.png');
+    height: 100px;
+    width: 90px;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKC1P_grbFKsCAA09UEupt8vQjEwR5vpF98rhg_n9Q_1fwjZNuVQ&s');
 }
 
